@@ -6,6 +6,8 @@ This package only deletes all the terracotta.
 
 You can use it on Minecraft Version 16.0+, but can't refresh new block which added from 16.0(You can find these on Nether).
 
+Download on [here](https://github.com/Aragakiiii/One-Block/releases).
+
 Visit IJAMinecraft here:
 Website: ijaminecraft.com
 YouTube: youtube.com/user/IJAMinecraft
