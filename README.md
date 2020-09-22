@@ -14,7 +14,7 @@ You can use it on Minecraft Version 16.0+, but can't refresh new block which add
 
 If you want to use existed OneBlock game archive, and only upgrade the map script.
 
-You can download this, and copy `OneBlock\datapacks\ija-one-block` to the same location to replace old map script(Unsually put on `%Users%\AppData\Roaming\.minecraft`).
+You can download this, and copy `OneBlock\datapacks\ija-one-block` to the same location to replace old map script(Unsually put on `%Users%\AppData\Roaming\.minecraft\saves\OneBlock\datapacks\ija-one-block`).
 
 ## IJAMinecraft
 
